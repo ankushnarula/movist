@@ -1,5 +1,20 @@
 Movist README
 
+*** IMPORTANT NOTE ***
+
+The Movist open source project ceased in 2010 and the original repository 
+hosted at http://code.google.com/p/movist/ was abandoned.  
+
+As of August 24, 2015, Google Code became read-only and I imported the code
+here for posterity and possible forked development.  I say forked because
+the original developers discontinued the open source project on Google Code
+and but continue to develop a binary only version of Movist found at the 
+Mac App Store. Please support them if you use and enjoy Movist:
+
+   https://itunes.apple.com/us/app/movist/id461788075?mt=12
+
+***********************
+
 1) Licensing
 
 * Movist is licensed under the GNU General Public License Version 3.
